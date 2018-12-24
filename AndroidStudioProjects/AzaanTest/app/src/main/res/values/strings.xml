@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AzaanTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_qibla">Qibla</string>
+    <string name="title_tasbih">Tasbih</string>
+    <string name="title_book">Quran</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2058824109529879/6308030941</string>
+    <string name="text_v">Tasbeeh Counter</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prayers">Prayers</string>
+    <string name="history">History</string>
+    <string name="asr">Asr</string>
+    <string name="sun_image">sun_image</string>
+    <string name="list_of_namaz">List Of Namaz</string>
+    <string name="namaz_progress">Namaz Progress</string>
+    <string name="app_settings">app_settings</string>
+    <string name="compass_hands" />
+    <string name="compass_dial" />
+</resources>
